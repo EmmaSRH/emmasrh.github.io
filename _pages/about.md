@@ -17,17 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate from [VIE Lab](http://www.vie.group/) and [Insight Lab](https://www.maleilab.cn/), [School of Computer Science](https://cs.pku.edu.cn/), Peking University, supervised by Assoc. Prof. [Tingting Jiang](http://www.vie.group/ttj). I received my M.S. degree at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. Prof. [Tingting Jiang](http://www.vie.group/ttj). I received my B.S. degree from [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018, supervised by Prof. Shuisheng Zhou.
+I have obtained my Ph.D. from the [School of Computer Science](https://cs.pku.edu.cn/), Peking University, supervised by Assoc. Prof. [Tingting Jiang](http://www.vie.group/ttj). And I will soon begin my postdoctoral research at the Max Planck Institute for Brain Research in Germany. I received my M.S. degree at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. Prof. [Tingting Jiang](http://www.vie.group/ttj). I received my B.S. degree from [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018, supervised by Prof. Shuisheng Zhou.
 
 My research interest includes computer vision and deep learning, especially in the fields of biological and medical image segmentation, 3D reconstruction of connectomics.
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ICSI 2024, and won the **Best Paper Award**.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ECAI 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2025.
 
 # 📝 AI for Connectomics 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation](https://conferences.miccai.org/2025/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Muge Qi, **Ruohua Shi**, Yu Cai, Liuyuan He, Wenyao Wang, Lei Ma
+
+*INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), 2025*
+
+[[Paper]](https://conferences.miccai.org/2025/en/) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/omniem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unifying the Electron Microscopy Multiverse through a Large-scale Foundation Model](https://conferences.miccai.org/2025/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Liuyuan He*, **Ruohua Shi***, Wenyao Wang*, Yu Cai, Lei Ma
+
+*bioRxiv, 2025*
+
+[[Paper]](https://www.biorxiv.org/content/biorxiv/early/2025/06/03/2025.04.13.648639.full.pdf) 
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,6 +152,19 @@ Video Instruments](https://arxiv.org/pdf/2408.01067)<strong><span class='show_pa
 </div>
 
 # 📝 General AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/ecai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TopSUMseg: A Topology-Aware Swin Transformer-Mamba  Framework for 3D Seismic Fault Image Segmentation]()<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Ran Chen, Jingyang Deng, Zeren Zhang, **Ruohua Shi** and Jinwen Ma
+
+*ECAI, 2025*
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/general_survey.png' alt="sym" width="100%"></div></div>
