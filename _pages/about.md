@@ -49,7 +49,7 @@ Muge Qi, **Ruohua Shi**, Yu Cai, Liuyuan He, Wenyao Wang, Lei Ma
 
 [Unifying the Electron Microscopy Multiverse through a Large-scale Foundation Model](https://conferences.miccai.org/2025/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
-Liuyuan He*, **Ruohua Shi***, Wenyao Wang*, Yu Cai, Lei Ma
+Liuyuan He\*, **Ruohua Shi\***, Wenyao Wang\*, Yu Cai, Lei Ma
 
 *bioRxiv, 2025*
 
