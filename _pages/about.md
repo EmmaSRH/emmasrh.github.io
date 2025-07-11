@@ -29,7 +29,7 @@ My research interest includes computer vision and deep learning, especially in t
 # 📝 AI for Connectomics 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/miccai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation](https://conferences.miccai.org/2025/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
@@ -44,7 +44,7 @@ Muge Qi, **Ruohua Shi**, Yu Cai, Liuyuan He, Wenyao Wang, Lei Ma
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/omniem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv, 2025</div><img src='images/omniem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unifying the Electron Microscopy Multiverse through a Large-scale Foundation Model](https://conferences.miccai.org/2025/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
