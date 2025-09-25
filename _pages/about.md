@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a postdoctoral researcher at the Max Planck Institute for Brain Research in Germany, supervised by Prof. [Moritz Helmstaedter](https://brain.mpg.de/helmstaedter). Previously, I obtained my Ph.D. from the School of Computer Science, Peking University, under the supervision of Assoc. Prof. Tingting Jiang and Prof. Lingyu Duan, and received my M.S. degree from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. Ming Jiang and Assoc. Prof. Tingting Jiang. I obtained my B.S. degree from the [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018.
+I am currently a postdoctoral researcher at the Max Planck Institute for Brain Research in Germany, supervised by Prof. [Moritz Helmstaedter](https://brain.mpg.de/helmstaedter). Previously, I obtained my Ph.D. from the (School of Computer Science)[https://cs.pku.edu.cn/English/Home.htm], Peking University, under the supervision of Assoc. Prof. Tingting Jiang and Prof. Lingyu Duan, and received my M.S. degree from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. Ming Jiang and Assoc. Prof. Tingting Jiang. I obtained my B.S. degree from the [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018.
 
 My research interest includes computer vision and deep learning, especially in the fields of biological and medical image segmentation, 3D reconstruction of connectomics.
 
